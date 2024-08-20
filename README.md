@@ -1,6 +1,6 @@
 
 
-# MERN Stack Authentication App
+# Authentication App
 Welcome to my MERN Stack Authentication App! This is a full-stack web application built using MongoDB, Express.js, React.js, and Node.js (MERN). The app includes essential authentication features like email/password login, Google OAuth, secure profile management, and more.
 
 ## Features
